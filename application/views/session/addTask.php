@@ -13,7 +13,7 @@
         <input type="file" name = "file_img" class="form-control">
         <br>
          <button type="button" class="btn btn-primary edit-btn" data-toggle="modal" data-target="#exampleModal">
-        Edit
+        Предварительный просмотр
     </button>
     </form>
   
